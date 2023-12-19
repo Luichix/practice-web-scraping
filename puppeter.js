@@ -1,6 +1,6 @@
 import puppeteer from 'puppeteer';
 
-export const getQuotes = async () => {
+export const getQuotes = async (url) => {
   // Start a Puppeteer session with:
   // - a visible browser (`headless: false` - easier to debug because you'll see the browser in action)
   // - no default viewport (`defaultViewport: null` - website page will in full width and height)

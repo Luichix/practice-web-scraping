@@ -1,35 +1,40 @@
-// es6 module
-import { extract } from '@extractus/article-extractor';
 import express from 'express';
+import { extract } from '@extractus/article-extractor';
 
 const app = express();
 
-app.get('/', async (req, res) => {
-  // const url = req.query.url
-  const url =
-    'https://www.yelu.com.ni/company/33158/Laboratorio_De_Bioan%C3%A1lisis_Cl%C3%ADnico_San_Angel#map';
+// Ruta principal que muestra un mensaje de bienvenida
+app.get('/', (req, res) => {
+  res.send('Bienvenido al servidor de extracción de artículos');
+});
+
+// Ruta para extraer información de una URL dada
+app.get('/extract', async (req, res) => {
+  const url = req.query.url;
 
   if (!url) {
-    return res.json(meta);
+    return res.status(400).json({
+      error: 1,
+      message: 'URL missing in query parameters',
+    });
   }
+
   try {
     const data = await extract(url);
-    const extra = await getQuotes();
-    return res.json({
+    res.json({
       error: 0,
-      message: 'article has been extracted successfully',
+      message: 'Article extracted successfully',
       data,
-      extra,
     });
   } catch (err) {
-    return res.json({
+    res.status(500).json({
       error: 1,
-      message: err.message,
-      data: null,
+      message: 'Error extracting article: ' + err.message,
     });
   }
 });
 
-app.listen(3100, () => {
-  console.log('Server is running at http://localhost:3100');
+const PORT = 3100;
+app.listen(PORT, () => {
+  console.log(`Server is running at http://localhost:${PORT}`);
 });
