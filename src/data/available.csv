@@ -1,0 +1,696 @@
+﻿text,href,category,available
+Home,https://www.longisland.com/,/,false
+Things To Do,https://www.longisland.com/things-to-do/,/things-to-do/,true
+All Things To Do,https://www.longisland.com/things-to-do/,/things-to-do/,true
+Amusement Parks,https://www.longisland.com/amusement-parks/,/amusement-parks/,true
+Beaches,https://www.longisland.com/beaches/,/beaches/,true
+Boating & Fishing,https://www.longisland.com/boating/,/boating/,true
+Golf Courses,https://www.longisland.com/golf/,/golf/,true
+Event Calendar,https://events.longisland.com/,,false
+Kids Entertainment,https://www.longisland.com/kids-entertainment/,/kids-entertainment/,true
+Museums,https://www.longisland.com/museums/,/museums/,true
+Nightlife,https://nightlife.longisland.com/,,false
+Parks,https://www.longisland.com/parks/,/parks/,true
+Restaurants,https://www.longisland.com/restaurants/,/restaurants/,true
+Sports,https://www.longisland.com/sports.html,/sports.html,true
+Summer Camps,https://www.longisland.com/summer-camps/,/summer-camps/,true
+Theaters,https://www.longisland.com/theaters/,/theaters/,true
+Tours,https://www.longisland.com/tours/,/tours/,true
+Vineyard Tours,https://www.longisland.com/vineyard-tours/,/vineyard-tours/,true
+Wineries,https://www.longisland.com/wineries/,/wineries/,true
+Events,https://www.longisland.com/business/#,/business/#,true
+Calendar Of Events,https://events.longisland.com/,,false
+Places To Go,https://www.longisland.com/things-to-do/,/things-to-do/,true
+Free Events,https://events.longisland.com/free,,false
+Today,https://events.longisland.com/daterange/today/,,false
+Tomorrow,https://events.longisland.com/daterange/tomorrow/,,false
+This Weekend,https://events.longisland.com/daterange/weekend/,,false
+Next 7 Days,https://events.longisland.com/daterange/week/,,false
+Next 30 Days,https://events.longisland.com/daterange/month/,,false
+Add an Event,https://events.longisland.com/addevent/,,false
+Feature Your Event,https://www.longisland.com/advertise/,/advertise/,true
+Business News,https://longislandbusiness.com/,,false
+Happenings,https://www.longisland.com/news/,/news/,true
+More,https://www.longisland.com/business/#,/business/#,true
+LIRR Schedules,https://www.longisland.com/lirr.html,/lirr.html,true
+Traffic Cameras,https://www.longisland.com/traffic-cameras/,/traffic-cameras/,true
+Ferry Schedules,https://www.longisland.com/ferry-schedules.html,/ferry-schedules.html,true
+Guides,https://www.longisland.com/business/,/business/,true
+Long Island Travel Guide (LICVB),https://www.longisland.com/licvb-li-travel-guide.html,/licvb-li-travel-guide.html,true
+Festivals & Fairs Guide,https://events.longisland.com/festivals-carnivals,,false
+Used Cars,https://www.longisland.com/used-cars/,/used-cars/,true
+Camps,https://www.longisland.com/day-camps/,/day-camps/,true
+Colleges,https://www.longisland.com/colleges/,/colleges/,true
+Day Camps,https://www.longisland.com/day-camps/,/day-camps/,true
+Home Improvement,https://www.longisland.com/home-improvement/,/home-improvement/,true
+Hotels,https://www.longisland.com/hotels_motels/,/hotels_motels/,true
+Private Schools,https://www.longisland.com/private-schools/,/private-schools/,true
+Prom,https://www.longisland.com/prom-guide.html,/prom-guide.html,true
+Weddings,https://weddings.longisland.com/,,false
+Newsletter,https://www.longisland.com/newsletter/,/newsletter/,true
+Find A Business,https://www.longisland.com/business/,/business/,true
+Business Directory,https://www.longisland.com/business/,/business/,true
+Bars & Clubs,https://nightlife.longisland.com/bars-lounges/,,false
+Car Dealers,https://www.longisland.com/used-cars/,/used-cars/,true
+Catering Halls,https://www.longisland.com/catering-halls/,/catering-halls/,true
+Day Care,https://www.longisland.com/day-care/,/day-care/,true
+Insurance Agents,https://www.longisland.com/insurance/,/insurance/,true
+Lawyers,https://www.longisland.com/lawyers/,/lawyers/,true
+Limos,https://www.longisland.com/limos/,/limos/,true
+Movers,https://www.longisland.com/movers/,/movers/,true
+Spas,https://www.longisland.com/day-spas/,/day-spas/,true
+Wedding Services,https://weddings.longisland.com/,,false
+More...,https://www.longisland.com/business/,/business/,false
+Feature Your Business,https://www.longisland.com/advertise/,/advertise/,true
+Real Estate,https://realestate.longisland.com/,,false
+Weather,https://www.longisland.com/weather/,/weather/,true
+Advertise With Us,https://www.longisland.com/advertise/,/advertise/,true
+this is where you should be advertising,https://www.longisland.com/advertise,/advertise,true
+Categorized,https://www.longisland.com/business/#categorized,/business/#categorized,true
+Alphabetic,https://www.longisland.com/business/#alphabetic,/business/#alphabetic,true
+Accommodations,https://www.longisland.com/accommodations/,/accommodations/,true
+Bed and Breakfast,https://www.longisland.com/bed-breakfasts/,/bed-breakfasts/,true
+House & Vacation Rentals,https://www.longisland.com/house-vacation-rentals/,/house-vacation-rentals/,true
+Inns,https://www.longisland.com/inns/,/inns/,true
+Motels,https://www.longisland.com/motels/,/motels/,true
+Resorts,https://www.longisland.com/resorts/,/resorts/,true
+Automotive,https://www.longisland.com/automotive/,/automotive/,true
+Auto Body,https://www.longisland.com/auto-body/,/auto-body/,true
+Auto Buyers,https://www.longisland.com/auto-buyers/,/auto-buyers/,true
+Auto Detailing,https://www.longisland.com/auto-detailing/,/auto-detailing/,true
+Auto Glass,https://www.longisland.com/auto-glass/,/auto-glass/,true
+Auto Insurance,https://www.longisland.com/auto-insurance/,/auto-insurance/,true
+Auto Loans,https://www.longisland.com/auto-loans/,/auto-loans/,true
+Automotive Parts & Supplies,https://www.longisland.com/parts-supplies/,/parts-supplies/,true
+Auto Repair,https://www.longisland.com/auto-repair/,/auto-repair/,true
+Auto Transport Services,https://www.longisland.com/auto-transport-services/,/auto-transport-services/,true
+Auto Wrecking & Junkyards,https://www.longisland.com/auto-wrecking-junkyards/,/auto-wrecking-junkyards/,true
+Car Consignment,https://www.longisland.com/car-consignment/,/car-consignment/,true
+Car Dealers (New Cars),https://www.longisland.com/car-dealers-new-cars/,/car-dealers-new-cars/,true
+Car Dealers (Used Cars),https://www.longisland.com/car-dealers-used-cars/,/car-dealers-used-cars/,true
+Car Rentals,https://www.longisland.com/car-rentals/,/car-rentals/,true
+Car Shipping Services,https://www.longisland.com/car-shipping-services/,/car-shipping-services/,true
+Car & Truck Accessories,https://www.longisland.com/accessories/,/accessories/,true
+Car Wash,https://www.longisland.com/car-wash/,/car-wash/,true
+Driving Schools,https://www.longisland.com/driving-schools/,/driving-schools/,true
+Motorcycles,https://www.longisland.com/motorcycles/,/motorcycles/,true
+Motorcycle Shipping Services,https://www.longisland.com/motorcycle-shipping-services/,/motorcycle-shipping-services/,true
+RVs & Recreational Vehicles,https://www.longisland.com/rvs-recreational-vehicles/,/rvs-recreational-vehicles/,true
+Service Stations,https://www.longisland.com/service-stations/,/service-stations/,true
+Tires & Wheels,https://www.longisland.com/tires-wheels/,/tires-wheels/,true
+Towing,https://www.longisland.com/towing/,/towing/,true
+Truck & Van Rental,https://www.longisland.com/truck-van-rental/,/truck-van-rental/,true
+See All,https://www.longisland.com/business/#,/business/#,true
+Beauty & Spa,https://www.longisland.com/beauty-spa/,/beauty-spa/,true
+Beauty & Health Products,https://www.longisland.com/beauty-health-products/,/beauty-health-products/,true
+Beauty Salons,https://www.longisland.com/beauty-salons/,/beauty-salons/,true
+Botox / Laser Treatments,https://www.longisland.com/botox-laser-treatments/,/botox-laser-treatments/,true
+Cosmetic Clinics,https://www.longisland.com/cosmetic-clinics/,/cosmetic-clinics/,true
+Day Spas,https://www.longisland.com/day-spas/,/day-spas/,true
+Dermatology,http://www.longisland.com/dermatology/,/dermatology/,true
+Gyms & Fitness Centers,http://www.longisland.com/fitness-centers/,/fitness-centers/,true
+Laser Hair Removal,https://www.longisland.com/laser-hair-removal/,/laser-hair-removal/,true
+Manicures / Pedicures,https://www.longisland.com/manicures-pedicures/,/manicures-pedicures/,true
+Plastic Surgery,http://www.longisland.com/plastic-surgery/,/plastic-surgery/,true
+Tanning Salons,https://www.longisland.com/tanning-salons/,/tanning-salons/,true
+Tattoo & Piercings,https://www.longisland.com/body-art-piercings/,/body-art-piercings/,true
+Bait & Tackle,https://www.longisland.com/bait-tackle/,/bait-tackle/,true
+Boat Builders,https://www.longisland.com/boat-builders-manufacturers/,/boat-builders-manufacturers/,true
+Boat Cleaning & Detailing,https://www.longisland.com/boat-cleaning-detailing/,/boat-cleaning-detailing/,true
+Boat Dealers - New & Used,https://www.longisland.com/boat-dealers-new-used-boat-dealers/,/boat-dealers-new-used-boat-dealers/,true
+Boat Financing,https://www.longisland.com/boat-financing/,/boat-financing/,true
+Boat Hauling & Transportation,https://www.longisland.com/boat-transportation/,/boat-transportation/,true
+Boating Clubs,https://www.longisland.com/boating-organizations-clubs/,/boating-organizations-clubs/,true
+Boating Gear,https://www.longisland.com/boating-gear/,/boating-gear/,true
+Boating Magazines,https://www.longisland.com/boating-magazines-publications/,/boating-magazines-publications/,true
+Boating Schools & Training,https://www.longisland.com/boating-schools-training/,/boating-schools-training/,true
+Boat Insurance,https://www.longisland.com/boat-insurance/,/boat-insurance/,true
+Boat Lettering & Graphics,https://www.longisland.com/boat-lettering-graphics/,/boat-lettering-graphics/,true
+Boat Maintenance & Repairs,https://www.longisland.com/boat-maintenance-repairs/,/boat-maintenance-repairs/,true
+Boat Ramps,https://www.longisland.com/boat-ramps/,/boat-ramps/,true
+Boat Rentals,https://www.longisland.com/boat-rentals/,/boat-rentals/,true
+Boat Surveyors,https://www.longisland.com/boat-surveyors/,/boat-surveyors/,true
+Boat Towing,https://www.longisland.com/boat-towing/,/boat-towing/,true
+Boat Trailers,https://www.longisland.com/boat-trailers/,/boat-trailers/,true
+Boat / Yacht Brokers,https://www.longisland.com/boat-brokers/,/boat-brokers/,true
+Boat Yards,https://www.longisland.com/boat-yards/,/boat-yards/,true
+Cruises & Yacht Charters,https://www.longisland.com/cruises/,/cruises/,true
+Fishing Charters & Party Boats,https://www.longisland.com/fishing/,/fishing/,true
+Fuel Docks,https://www.longisland.com/fuel-docks/,/fuel-docks/,true
+Jet Ski Rental,https://www.longisland.com/jet-ski-rental/,/jet-ski-rental/,true
+Kayak & Canoe Rentals,https://www.longisland.com/kayak-canoe-rentals/,/kayak-canoe-rentals/,true
+Marinas,https://www.longisland.com/marinas/,/marinas/,true
+Marine Electronics & Equipment Dealers,https://www.longisland.com/boating-electronics-equipment-dealers/,/boating-electronics-equipment-dealers/,true
+Other Boating Services,https://www.longisland.com/other-boating-services/,/other-boating-services/,true
+Sailing,https://www.longisland.com/sailing/,/sailing/,true
+Seal Watching,https://www.longisland.com/seal-watching/,/seal-watching/,true
+Shark Diving,https://www.longisland.com/shark-diving/,/shark-diving/,true
+Water Sports,http://www.longisland.com/water-sports/,/water-sports/,true
+Business to Business,https://www.longisland.com/business-to-business/,/business-to-business/,true
+Business Networking Groups,https://www.longisland.com/business-networking-groups/,/business-networking-groups/,true
+Coworking Spaces,https://www.longisland.com/coworking-spaces/,/coworking-spaces/,true
+Custom Apparel,https://www.longisland.com/custom-apparel/,/custom-apparel/,true
+Executive Suites,https://www.longisland.com/executive-suites/,/executive-suites/,true
+Graphic Design,http://www.longisland.com/graphic-design/,/graphic-design/,true
+Investments & Financing,https://www.longisland.com/investments-financing/,/investments-financing/,true
+Live Streaming,https://www.longisland.com/live-streaming/,/live-streaming/,true
+Machinery,https://www.longisland.com/machinery/,/machinery/,true
+Meeting & Conference Rooms,https://www.longisland.com/meeting-conference-rooms/,/meeting-conference-rooms/,true
+Merchant Services,https://www.longisland.com/merchant-services/,/merchant-services/,true
+Office Furniture,https://www.longisland.com/office-furniture/,/office-furniture/,true
+Offices For Rent,https://www.longisland.com/offices-for-rent/,/offices-for-rent/,true
+Other B2B Services,https://www.longisland.com/other-b2b-services/,/other-b2b-services/,true
+Restaurant Paper Rolls,https://www.longisland.com/restaurant-paper-rolls/,/restaurant-paper-rolls/,true
+Telephone Services,https://www.longisland.com/telephone-services/,/telephone-services/,true
+Vending Machines,https://www.longisland.com/vending-machines/,/vending-machines/,true
+Charities,https://www.longisland.com/charities/,/charities/,true
+Animal Organizations,http://www.longisland.com/animal-organizations/,/animal-organizations/,true
+Arts & Culture Organizations,https://www.longisland.com/arts-organizations/,/arts-organizations/,true
+Children's Charities,https://www.longisland.com/childrens-charities/,/childrens-charities/,true
+Crisis Outreach,https://www.longisland.com/crisis-outreach/,/crisis-outreach/,true
+Disability Assistance,https://www.longisland.com/for-the-disabled/,/for-the-disabled/,true
+Educational Organizations,https://www.longisland.com/education-organizations/,/education-organizations/,true
+Environmental Organizations,https://www.longisland.com/environmental-organizations/,/environmental-organizations/,true
+Fighting Cancer,https://www.longisland.com/fighting-cancer/,/fighting-cancer/,true
+Fighting Poverty,https://www.longisland.com/fighting-poverty/,/fighting-poverty/,true
+Food Pantries,https://www.longisland.com/food-pantries/,/food-pantries/,true
+Health & Disease,https://www.longisland.com/wellness-organizations/,/wellness-organizations/,true
+Philanthropic Organizations,https://www.longisland.com/philanthropic-organizations/,/philanthropic-organizations/,true
+Remembrance & Veterans Groups,https://www.longisland.com/veterans-organizations/,/veterans-organizations/,true
+Shelters,https://www.longisland.com/shelters/,/shelters/,true
+Community Offices,https://www.longisland.com/community-offices/,/community-offices/,true
+Aging in Place,https://www.longisland.com/aging-in-place/,/aging-in-place/,true
+Animal Shelters,https://www.longisland.com/animal-shelters/,/animal-shelters/,true
+Business Organizations & Associations,https://www.longisland.com/business-organizations/,/business-organizations/,true
+Cemeteries,https://www.longisland.com/cemeteries/,/cemeteries/,true
+Chambers of Commerce,https://www.longisland.com/chambers-of-commerce/,/chambers-of-commerce/,true
+Courts,https://www.longisland.com/courts/,/courts/,true
+DMV Offices,http://www.longisland.com/dmv-long-island-new-york.html,/dmv-long-island-new-york.html,true
+Fire Departments,https://www.longisland.com/fire-departments/,/fire-departments/,true
+Funeral Homes,https://www.longisland.com/funeral-homes/,/funeral-homes/,true
+Government Agencies,https://www.longisland.com/government-agencies/,/government-agencies/,true
+Hospitals,http://www.longisland.com/hospitals/,/hospitals/,true
+Police Departments,https://www.longisland.com/police-departments/,/police-departments/,true
+Post Offices,https://www.longisland.com/post-offices/,/post-offices/,true
+Retirement Homes,https://www.longisland.com/retirement-homes/,/retirement-homes/,true
+Temples,http://www.longisland.com/temples.html,/temples.html,true
+Computer / Internet,https://www.longisland.com/computer-internet/,/computer-internet/,true
+Advertising & Marketing,https://www.longisland.com/advertising-marketing/,/advertising-marketing/,true
+Computer Repairs,https://www.longisland.com/computer-repairs/,/computer-repairs/,true
+Copiers,https://www.longisland.com/copiers-printers-ink/,/copiers-printers-ink/,true
+Cyber Security,https://www.longisland.com/cyber-security/,/cyber-security/,true
+Data & Voice Cabling,https://www.longisland.com/data-voice-cabling/,/data-voice-cabling/,true
+Dedicated Servers,https://www.longisland.com/dedicated-servers/,/dedicated-servers/,true
+Domain Names,https://www.longisland.com/domain-names/,/domain-names/,true
+Internet Services,https://www.longisland.com/internet-services/,/internet-services/,true
+IT Managed Services,https://www.longisland.com/it-managed-services/,/it-managed-services/,true
+Networking Solutions,https://www.longisland.com/networking-solutions/,/networking-solutions/,true
+Server Co-Location,https://www.longisland.com/server-co-location/,/server-co-location/,true
+Web Design & Development,https://www.longisland.com/web-design-development/,/web-design-development/,true
+Web Hosting,https://www.longisland.com/web-hosting/,/web-hosting/,true
+Education,https://www.longisland.com/education/,/education/,true
+Colleges & Universities,https://www.longisland.com/colleges/,/colleges/,true
+Daycare,https://www.longisland.com/day-care/,/day-care/,true
+Flight Schools,https://www.longisland.com/flight-schools/,/flight-schools/,true
+Libraries,https://www.longisland.com/libraries/,/libraries/,true
+Music Lessons,https://www.longisland.com/music-lessons/,/music-lessons/,true
+Photography Classes,https://www.longisland.com/photography-classes/,/photography-classes/,true
+PreSchools,https://www.longisland.com/preschool/,/preschool/,true
+Public Schools,http://www.longisland.com/school-districts/,/school-districts/,true
+Religious Schools,https://www.longisland.com/religious-schools/,/religious-schools/,true
+School Closings,http://www.longisland.com/long-island-school-closings.html,/long-island-school-closings.html,true
+School Districts,http://www.longisland.com/school-districts/,/school-districts/,true
+Trade Schools,https://www.longisland.com/trade-schools/,/trade-schools/,true
+Tutoring,https://www.longisland.com/tutoring/,/tutoring/,true
+Entertainment,https://www.longisland.com/entertainment/,/entertainment/,true
+Clowns,https://www.longisland.com/clowns/,/clowns/,true
+Dance Lessons,https://www.longisland.com/dance-lessons/,/dance-lessons/,true
+Darts,https://www.longisland.com/darts/,/darts/,true
+DJ / Music Services,https://www.longisland.com/dj-music-services/,/dj-music-services/,true
+Gaming Centers,https://www.longisland.com/gaming-centers/,/gaming-centers/,true
+Magazines,https://www.longisland.com/magazines/,/magazines/,true
+Magicians,https://www.longisland.com/magicians/,/magicians/,true
+Movie Theaters,http://www.longisland.com/movies/,/movies/,true
+Newspapers,https://www.longisland.com/newspapers/,/newspapers/,true
+Party Planning,https://www.longisland.com/party-planning/,/party-planning/,true
+Party Rentals,https://www.longisland.com/party-rentals/,/party-rentals/,true
+Radio Stations,https://www.longisland.com/radio-stations/,/radio-stations/,true
+Singles & Online Dating,https://www.longisland.com/singles-online-dating/,/singles-online-dating/,true
+Environment,https://www.longisland.com/environment/,/environment/,true
+Energy & Power,http://www.longisland.com/lipa.html,/lipa.html,true
+Recycling Facilities,https://www.longisland.com/recycling/,/recycling/,true
+Solar / Green / Renewable,https://www.longisland.com/green-energy/,/green-energy/,true
+Waste & Sanitation,https://www.longisland.com/waste/,/waste/,true
+Finance & Legal,https://www.longisland.com/finance-legal/,/finance-legal/,true
+Accountants,https://www.longisland.com/accountants/,/accountants/,true
+Bankruptcy,https://www.longisland.com/bankruptcy/,/bankruptcy/,true
+Banks,https://www.longisland.com/banks/,/banks/,true
+Business Attorney,https://www.longisland.com/business-attorney/,/business-attorney/,true
+Collections,https://www.longisland.com/collections/,/collections/,true
+Construction Law,https://www.longisland.com/construction-law/,/construction-law/,true
+Credit Repair,https://www.longisland.com/credit-repair/,/credit-repair/,true
+Criminal Law,https://www.longisland.com/criminal-law/,/criminal-law/,true
+Debt,https://www.longisland.com/debt/,/debt/,true
+Divorce Lawyers,https://www.longisland.com/divorce-lawyers/,/divorce-lawyers/,true
+Divorce Mediation,https://www.longisland.com/divorce-mediation/,/divorce-mediation/,true
+Elder Law,https://www.longisland.com/elder-law/,/elder-law/,true
+Employment Law,https://www.longisland.com/employment-law/,/employment-law/,true
+Environmental Law,https://www.longisland.com/environmental-law/,/environmental-law/,true
+Estate Planning,https://www.longisland.com/family-attorneys/,/family-attorneys/,true
+Financial Planning,https://www.longisland.com/financial-planning/,/financial-planning/,true
+Insurance,https://www.longisland.com/insurance/,/insurance/,true
+Insurance Adjusters,https://www.longisland.com/insurance-adjusters/,/insurance-adjusters/,true
+Investment Services,https://www.longisland.com/investment-services/,/investment-services/,true
+Land Use and Zoning Law,https://www.longisland.com/land-use-and-zoning-law/,/land-use-and-zoning-law/,true
+Medical Malpractice,https://www.longisland.com/medical-malpractice/,/medical-malpractice/,true
+Mortgages,http://www.longisland.com/mortgage-services/,/mortgage-services/,true
+Paralegal,https://www.longisland.com/paralegal/,/paralegal/,true
+Personal Injury Lawyers,https://www.longisland.com/personal-injury-law/,/personal-injury-law/,true
+Real Estate Law,https://www.longisland.com/real-estate-law/,/real-estate-law/,true
+Real Estate Tax Certiorari Law & Condemnation,https://www.longisland.com/real-estate-tax-certiorari-law-condemnation/,/real-estate-tax-certiorari-law-condemnation/,true
+Tax Attorneys,https://www.longisland.com/tax-attorneys/,/tax-attorneys/,true
+Taxes,https://www.longisland.com/taxes/,/taxes/,true
+Telecommunications Law,https://www.longisland.com/telecommunications-law/,/telecommunications-law/,true
+Traffic Tickets,https://www.longisland.com/traffic-tickets/,/traffic-tickets/,true
+Food & Drinks,https://www.longisland.com/restaurants/,/restaurants/,true
+Bagel Shops,http://www.longisland.com/restaurants/bagels-restaurants,/restaurants/bagels-restaurants,true
+Bakeries,https://www.longisland.com/bakeries/,/bakeries/,true
+Beer Distributors,https://www.longisland.com/beer-distributors/,/beer-distributors/,true
+Caterers,https://www.longisland.com/caterers/,/caterers/,true
+Coffee Shops,http://www.longisland.com/restaurants/listing/cuisine/coffee-shops,/restaurants/listing/cuisine/coffee-shops,true
+Delis,http://www.longisland.com/restaurants/listing/cuisine/delis,/restaurants/listing/cuisine/delis,true
+Ice Cream Parlors,https://www.longisland.com/ice-cream-parlors/,/ice-cream-parlors/,true
+Liquor Stores,https://www.longisland.com/liquor-stores/,/liquor-stores/,true
+Pizzerias,http://www.longisland.com/restaurants/listing/cuisine/pizza,/restaurants/listing/cuisine/pizza,true
+Seafood Stores,http://www.longisland.com/restaurants/listing/cuisine/143,/restaurants/listing/cuisine/143,true
+Sweets Shops,https://www.longisland.com/sweets-shops/,/sweets-shops/,true
+Tea Houses,https://www.longisland.com/tea-houses/,/tea-houses/,true
+Yogurt Shops,https://www.longisland.com/yogurt-shops/,/yogurt-shops/,true
+Halloween Guide,https://www.longisland.com/halloween/,/halloween/,true
+Corn Mazes,https://www.longisland.com/mazes/,/mazes/,true
+Festivals,https://www.longisland.com/festivals/,/festivals/,true
+Halloween Parties,https://www.longisland.com/halloween-parties/,/halloween-parties/,true
+Haunted Houses,https://www.longisland.com/haunted-houses/,/haunted-houses/,true
+Haunted Plays & Theatres,https://www.longisland.com/haunted-plays-theatres/,/haunted-plays-theatres/,true
+Hay Rides,https://www.longisland.com/hay-rides/,/hay-rides/,true
+Other Halloween Events,https://www.longisland.com/other-halloween-events/,/other-halloween-events/,true
+Pumpkin Picking,https://www.longisland.com/pumpkin-picking/,/pumpkin-picking/,true
+Spook Walks & Trails,https://www.longisland.com/spook-walks/,/spook-walks/,true
+Health & Wellness,https://www.longisland.com/health-beauty/,/health-beauty/,true
+Acupuncture,https://www.longisland.com/acupuncture/,/acupuncture/,true
+Audiology / Hearing Doctors,https://www.longisland.com/audiology-hearing-doctors/,/audiology-hearing-doctors/,true
+Bath & Body,https://www.longisland.com/bath-body/,/bath-body/,true
+Cardiology,https://www.longisland.com/cardiology/,/cardiology/,true
+Chiropractors,https://www.longisland.com/chiropractors/,/chiropractors/,true
+Colon Hydrotherapy,https://www.longisland.com/colon-hydrotherapy/,/colon-hydrotherapy/,true
+Cosmetics,https://www.longisland.com/cosmetics/,/cosmetics/,true
+Cryotherapy,https://www.longisland.com/cryotherapy/,/cryotherapy/,true
+Dentists,https://www.longisland.com/dentists/,/dentists/,true
+Diet & Nutrition,https://www.longisland.com/diet-nutrition/,/diet-nutrition/,true
+Doctors,https://www.longisland.com/doctors/,/doctors/,true
+Drug & Alcohol Rehab,https://www.longisland.com/drug-alcohol-rehab/,/drug-alcohol-rehab/,true
+Essential Oils,https://www.longisland.com/essential-oils/,/essential-oils/,true
+Eye Care,https://www.longisland.com/eye-care/,/eye-care/,true
+Fitness Equipment,https://www.longisland.com/fitness-equipment/,/fitness-equipment/,true
+Hair Care,https://www.longisland.com/hair-care/,/hair-care/,true
+Hair Restoration,https://www.longisland.com/hair-restoration/,/hair-restoration/,true
+Health Food & Vitamin Stores,https://www.longisland.com/health-food-vitamin-stores/,/health-food-vitamin-stores/,true
+Health Insurance,https://www.longisland.com/health-insurance/,/health-insurance/,true
+In-Home Health Care,https://www.longisland.com/in-home-health-care/,/in-home-health-care/,true
+Laboratory & Testing,https://www.longisland.com/laboratory-testing/,/laboratory-testing/,true
+Long Term Care,https://www.longisland.com/long-term-care/,/long-term-care/,true
+Massage Therapy,https://www.longisland.com/massage-therapy/,/massage-therapy/,true
+Medical Equipment,https://www.longisland.com/medical-equipment/,/medical-equipment/,true
+Oncology,https://www.longisland.com/oncology/,/oncology/,true
+Optometrist,https://www.longisland.com/optometrist/,/optometrist/,true
+Orthodontists,https://www.longisland.com/orthodontists/,/orthodontists/,true
+Outpatient Facilities,https://www.longisland.com/outpatient-facilities/,/outpatient-facilities/,true
+Pediatricians,http://www.longisland.com/pediatricians/,/pediatricians/,true
+Personal Training,https://www.longisland.com/personal-training/,/personal-training/,true
+Pharmacies,https://www.longisland.com/pharmacies/,/pharmacies/,true
+Physical Therapy,https://www.longisland.com/physical-therapy/,/physical-therapy/,true
+Pilates,https://www.longisland.com/pilates/,/pilates/,true
+Podiatrists,https://www.longisland.com/podiatrists/,/podiatrists/,true
+Primary Care,https://www.longisland.com/primary-care/,/primary-care/,true
+Psychiatrists,https://www.longisland.com/psychiatrists/,/psychiatrists/,true
+Psychologists,https://www.longisland.com/psychologists/,/psychologists/,true
+Radiology,https://www.longisland.com/radiology/,/radiology/,true
+Skin Care,https://www.longisland.com/skin-care/,/skin-care/,true
+Stairlifts,https://www.longisland.com/stairlifts/,/stairlifts/,true
+Therapy & Counseling,https://www.longisland.com/therapy-counseling/,/therapy-counseling/,true
+Urgent Care,https://www.longisland.com/urgent-care/,/urgent-care/,true
+Yoga,https://www.longisland.com/yoga/,/yoga/,true
+Audio/Visual Installations,https://www.longisland.com/audiovisual-installations/,/audiovisual-installations/,true
+Awnings,https://www.longisland.com/awnings/,/awnings/,true
+Basements,https://www.longisland.com/basements/,/basements/,true
+Brick & Masonry,https://www.longisland.com/brick-masonry/,/brick-masonry/,true
+Carpeting,https://www.longisland.com/carpeting/,/carpeting/,true
+Closets,https://www.longisland.com/closets/,/closets/,true
+Concrete Foundations,https://www.longisland.com/concrete-foundations/,/concrete-foundations/,true
+Contractors,https://www.longisland.com/contractors/,/contractors/,true
+Doors,https://www.longisland.com/doors/,/doors/,true
+Dormers,https://www.longisland.com/dormers/,/dormers/,true
+Dumpster Rentals,https://www.longisland.com/dumpster-rentals/,/dumpster-rentals/,true
+Dumpsters,https://www.longisland.com/dumpsters/,/dumpsters/,true
+Fences,https://www.longisland.com/fences/,/fences/,true
+Fireplaces & Barbeques,https://www.longisland.com/fireplaces-barbeques/,/fireplaces-barbeques/,true
+Fire Protection,https://www.longisland.com/fire-protection/,/fire-protection/,true
+Flooring,https://www.longisland.com/flooring/,/flooring/,true
+General Contractors,https://www.longisland.com/general-contractors/,/general-contractors/,true
+House Lifting & Elevation,https://www.longisland.com/house-lifting-elevation/,/house-lifting-elevation/,true
+Kitchen & Bath,https://www.longisland.com/kitchen-bath/,/kitchen-bath/,true
+Landscaping,https://www.longisland.com/landscaping/,/landscaping/,true
+Locksmiths,https://www.longisland.com/locksmiths2/,/locksmiths2/,true
+Moving,https://www.longisland.com/moving2/,/moving2/,true
+New Construction,https://www.longisland.com/new-construction/,/new-construction/,true
+Other Home Improvement Services,https://www.longisland.com/other-services/,/other-services/,true
+Outdoor Lighting,https://www.longisland.com/outdoor-lighting/,/outdoor-lighting/,true
+Outdoor Power Equipment,https://www.longisland.com/outdoor-power-equipment/,/outdoor-power-equipment/,true
+Patios & Decks,https://www.longisland.com/patios/,/patios/,true
+Plumbing Supply,https://www.longisland.com/plumbing-supply/,/plumbing-supply/,true
+Renovations & Remodeling,https://www.longisland.com/renovations/,/renovations/,true
+Roofing,https://www.longisland.com/roofing/,/roofing/,true
+Solar & Renewable Energy,https://www.longisland.com/solar-renewable-energy/,/solar-renewable-energy/,true
+Storage,https://www.longisland.com/storage2/,/storage2/,true
+Swimming Pools,http://www.longisland.com/pools/,/pools/,true
+Windows & Siding,https://www.longisland.com/windows-siding/,/windows-siding/,true
+Home Services,https://www.longisland.com/home-services/,/home-services/,true
+Air Conditioning,https://www.longisland.com/air-conditioning/,/air-conditioning/,true
+Alarms,https://www.longisland.com/alarms-security/,/alarms-security/,true
+Blacktop & Driveway Seal Coating,https://www.longisland.com/blacktop-driveway-seal-coating/,/blacktop-driveway-seal-coating/,true
+Boilers & Burners,https://www.longisland.com/boilers-burners/,/boilers-burners/,true
+Building & Zoning Permits,https://www.longisland.com/building-zoning-permits/,/building-zoning-permits/,true
+Carpet & Rug Cleaners,https://www.longisland.com/carpet-rug-cleaners/,/carpet-rug-cleaners/,true
+Central Vacuum Systems,https://www.longisland.com/central-vacuum-systems/,/central-vacuum-systems/,true
+Cesspools,https://www.longisland.com/cesspools/,/cesspools/,true
+Chimney Cleaning,https://www.longisland.com/chimney-cleaning/,/chimney-cleaning/,true
+Decorators,https://www.longisland.com/decorators/,/decorators/,true
+Electricians,https://www.longisland.com/electricians/,/electricians/,true
+Excavators,https://www.longisland.com/excavators/,/excavators/,true
+Exterminators,https://www.longisland.com/exterminators/,/exterminators/,true
+Fish Ponds,https://www.longisland.com/fish-ponds/,/fish-ponds/,true
+Fuel Oil,https://www.longisland.com/fuel-oil/,/fuel-oil/,true
+Garage Doors,https://www.longisland.com/garage-doors/,/garage-doors/,true
+Gardening,https://www.longisland.com/gardening/,/gardening/,true
+Generators,https://www.longisland.com/generators/,/generators/,true
+Gutter Services,https://www.longisland.com/gutter-cleaning-repair/,/gutter-cleaning-repair/,true
+Heating,https://www.longisland.com/heating/,/heating/,true
+Home Aquariums,https://www.longisland.com/home-aquariums/,/home-aquariums/,true
+Home Inspections,https://www.longisland.com/home-inspections/,/home-inspections/,true
+Homeowner Services,https://www.longisland.com/homeowner-services/,/homeowner-services/,true
+Homeowners Insurance,https://www.longisland.com/homeowners-insurance/,/homeowners-insurance/,true
+Home Theater,https://www.longisland.com/home-theater/,/home-theater/,true
+House Cleaning,https://www.longisland.com/house-cleaning/,/house-cleaning/,true
+Interior Design,https://www.longisland.com/interior-design/,/interior-design/,true
+Junk Removal,https://www.longisland.com/junk-removal/,/junk-removal/,true
+Landscape Architects,https://www.longisland.com/landscape-architects/,/landscape-architects/,true
+Lawn Maintenance,https://www.longisland.com/lawn-maintenance/,/lawn-maintenance/,true
+Mold Removal & Restoration,https://www.longisland.com/mold-removal/,/mold-removal/,true
+Nurseries,https://www.longisland.com/nurseries/,/nurseries/,true
+Oil Companies,https://www.longisland.com/oil-companies/,/oil-companies/,true
+Painters,https://www.longisland.com/painters/,/painters/,true
+Paving,https://www.longisland.com/paving/,/paving/,true
+Plumbers,https://www.longisland.com/plumbers/,/plumbers/,true
+Pools,https://www.longisland.com/pools/,/pools/,true
+Powerwashing,https://www.longisland.com/powerwashing/,/powerwashing/,true
+Saunas & Spas,https://www.longisland.com/saunas-spas/,/saunas-spas/,true
+Snow Removal,https://www.longisland.com/snow-removal/,/snow-removal/,true
+Sprinklers & Irrigation,https://www.longisland.com/sprinklers-irrigation/,/sprinklers-irrigation/,true
+Stump Grinding,https://www.longisland.com/stump-grinding/,/stump-grinding/,true
+Tax Reduction Services,https://www.longisland.com/tax-reduction/,/tax-reduction/,true
+Tile Dealers & Tile Contractors,https://www.longisland.com/tile-dealers-tile-contractors/,/tile-dealers-tile-contractors/,true
+Tree Services,https://www.longisland.com/tree-services/,/tree-services/,true
+Water,https://www.longisland.com/water-fire-smoke-damage/,/water-fire-smoke-damage/,true
+Waterproofing,https://www.longisland.com/waterproofing/,/waterproofing/,true
+Wireman / Cableman,https://www.longisland.com/wireman-cableman/,/wireman-cableman/,true
+Kids Guide,https://www.longisland.com/kids-guide/,/kids-guide/,true
+Acting & Modeling,https://www.longisland.com/acting-modeling/,/acting-modeling/,true
+Art Classes,https://www.longisland.com/art-classes/,/art-classes/,true
+Child Care,https://www.longisland.com/child-care/,/child-care/,true
+Enrichment Activities,https://www.longisland.com/enrichment-activities/,/enrichment-activities/,true
+Gymnastics,https://www.longisland.com/gymnastics/,/gymnastics/,true
+Inflatables,https://www.longisland.com/inflatables/,/inflatables/,true
+Kids After School Programs,https://www.longisland.com/kids-after-school-programs/,/kids-after-school-programs/,true
+Kids Cooking Classes,https://www.longisland.com/kids-cooking-classes/,/kids-cooking-classes/,true
+Kids Parties & Entertainment,https://www.longisland.com/kids-entertainment/,/kids-entertainment/,true
+Kids Party Venues,https://www.longisland.com/party-places/,/party-places/,true
+Kids Special Needs Programs,https://www.longisland.com/kids-special-needs-programs/,/kids-special-needs-programs/,true
+Kids Sports,https://www.longisland.com/kids-sports/,/kids-sports/,true
+Kids Therapists,https://www.longisland.com/kids-therapists/,/kids-therapists/,true
+Mommy & Me,https://www.longisland.com/mommy-me/,/mommy-me/,true
+Nursery Schools,https://www.longisland.com/nursery-schools/,/nursery-schools/,true
+Open Play,https://www.longisland.com/open-play/,/open-play/,true
+Pediatric Dentists,https://www.longisland.com/pediatric-dentists/,/pediatric-dentists/,true
+Planetariums,http://www.longisland.com/planetariums.html,/planetariums.html,true
+Swimming Lessons,https://www.longisland.com/swimming-lessons/,/swimming-lessons/,true
+Nightspots,https://www.longisland.com/nightspots/,/nightspots/,true
+Adult Entertainment,http://nightlife.longisland.com/adult-entertainment/,,false
+Night Clubs,http://nightlife.longisland.com/night-clubs/,,false
+Pet Services,https://www.longisland.com/pet-services/,/pet-services/,true
+Boarding & Kennels,https://www.longisland.com/boarding-kennels/,/boarding-kennels/,true
+Dog Walking,https://www.longisland.com/dog-walking/,/dog-walking/,true
+Emergency 24/7 Pet Care,https://www.longisland.com/247-emergency-care/,/247-emergency-care/,true
+Fencing Systems,https://www.longisland.com/fencing-systems/,/fencing-systems/,true
+Grooming,https://www.longisland.com/grooming/,/grooming/,true
+Pet Insurance,https://www.longisland.com/pet-insurance/,/pet-insurance/,true
+Pet Photography,https://www.longisland.com/pet-photography/,/pet-photography/,true
+Pet Sitting & Day Care,https://www.longisland.com/pet-sitting-day-care/,/pet-sitting-day-care/,true
+Pet Supplies / Stores,https://www.longisland.com/pet-supplies/,/pet-supplies/,true
+Shelters & Adoption Centers,http://www.longisland.com/animal-shelters/,/animal-shelters/,true
+Specialty Boutiques,https://www.longisland.com/specialty-boutiques/,/specialty-boutiques/,true
+Training,https://www.longisland.com/training/,/training/,true
+Veterinarians,https://www.longisland.com/veterinarians/,/veterinarians/,true
+Yard Clean Up,https://www.longisland.com/yard-clean-up/,/yard-clean-up/,true
+Professional Services,https://www.longisland.com/professional-services/,/professional-services/,true
+Advertising Agencies,https://www.longisland.com/advertising-agencies/,/advertising-agencies/,true
+Architects,https://www.longisland.com/architects/,/architects/,true
+Art Restoration,https://www.longisland.com/art-restoration/,/art-restoration/,true
+Communications,https://www.longisland.com/communications/,/communications/,true
+Consultants,https://www.longisland.com/consultants/,/consultants/,true
+Cremation Services,https://www.longisland.com/cremation-services/,/cremation-services/,true
+Customs Brokers,https://www.longisland.com/customs-brokers/,/customs-brokers/,true
+Document Management,https://www.longisland.com/document-management/,/document-management/,true
+Document Storage,https://www.longisland.com/document-storage/,/document-storage/,true
+Dry Cleaners,https://www.longisland.com/dry-cleaners/,/dry-cleaners/,true
+Employment Agencies,https://www.longisland.com/employment/,/employment/,true
+Investigations,https://www.longisland.com/investigations/,/investigations/,true
+Laundromats,https://www.longisland.com/laundromats/,/laundromats/,true
+Lice Removal,https://www.longisland.com/lice-removal/,/lice-removal/,true
+Marketing & Sales,https://www.longisland.com/marketing-sales/,/marketing-sales/,true
+Nannies,https://www.longisland.com/nannies/,/nannies/,true
+Office Cleaning,https://www.longisland.com/office-cleaning/,/office-cleaning/,true
+Permits & Licensing,https://www.longisland.com/permits-licensing/,/permits-licensing/,true
+Personal Appraisers,https://www.longisland.com/personal-appraisers/,/personal-appraisers/,true
+Personal Shopper,https://www.longisland.com/personal-shopper/,/personal-shopper/,true
+Pest Control,https://www.longisland.com/pest-control/,/pest-control/,true
+Photographers,https://www.longisland.com/photographers/,/photographers/,true
+Picture Framing,https://www.longisland.com/picture-framing/,/picture-framing/,true
+Printing,https://www.longisland.com/printing/,/printing/,true
+Professional Portraits,https://www.longisland.com/professional-portraits/,/professional-portraits/,true
+Public Relations,https://www.longisland.com/public-relations/,/public-relations/,true
+Recording Studios,https://www.longisland.com/recording-studios/,/recording-studios/,true
+Security Services,https://www.longisland.com/security-services/,/security-services/,true
+Signs,https://www.longisland.com/signs/,/signs/,true
+Trade Shows,https://www.longisland.com/trade-shows/,/trade-shows/,true
+Travel Agencies,https://www.longisland.com/travel-agencies/,/travel-agencies/,true
+TV Repair,https://www.longisland.com/tv-repair/,/tv-repair/,true
+Video Production,https://www.longisland.com/video-production/,/video-production/,true
+Virtual Assistants,https://www.longisland.com/virtual-assistants/,/virtual-assistants/,true
+Virtual Tours,https://www.longisland.com/virtual-tours/,/virtual-tours/,true
+Wedding Planners,https://www.longisland.com/wedding-planners/,/wedding-planners/,true
+Real Estate Services,https://www.longisland.com/real-estate/,/real-estate/,true
+Apartment Buildings,https://www.longisland.com/apartment-buildings/,/apartment-buildings/,true
+Appraisers,https://www.longisland.com/appraisers/,/appraisers/,true
+Brokers & Agents,https://www.longisland.com/brokers-agents/,/brokers-agents/,true
+Builders & Contractors,https://www.longisland.com/builders-contractors/,/builders-contractors/,true
+Commercial Real Estate,https://www.longisland.com/commercial-real-estate/,/commercial-real-estate/,true
+Condos & Townhouses,https://www.longisland.com/condos-townhouses/,/condos-townhouses/,true
+Energy Efficiency,https://www.longisland.com/energy-efficiency/,/energy-efficiency/,true
+Home Staging,https://www.longisland.com/home-staging/,/home-staging/,true
+House Flipping,https://www.longisland.com/house-flipping/,/house-flipping/,true
+Inspectors & Surveyors,https://www.longisland.com/inspectors-surveyors/,/inspectors-surveyors/,true
+MLS,https://www.longisland.com/mls/,/mls/,true
+Mortgage Services,https://www.longisland.com/mortgage-services/,/mortgage-services/,true
+Property Management,https://www.longisland.com/property-management/,/property-management/,true
+Real Estate Attorney,https://www.longisland.com/real-estate-attorney/,/real-estate-attorney/,true
+Real Estate Consultants,https://www.longisland.com/real-estate-consultants/,/real-estate-consultants/,true
+Real Estate Photography,https://www.longisland.com/real-estate-photography/,/real-estate-photography/,true
+Rentals,https://www.longisland.com/rentals/,/rentals/,true
+Reverse Mortgages,https://www.longisland.com/reverse-mortgages/,/reverse-mortgages/,true
+Search Real Estate,http://realestate.longisland.com/,,false
+Title Companies,https://www.longisland.com/title-companies/,/title-companies/,true
+Shopping,https://www.longisland.com/shopping/,/shopping/,true
+Adult Stores,https://www.longisland.com/adult-stores/,/adult-stores/,true
+Antique Shops,https://www.longisland.com/antique-shops/,/antique-shops/,true
+Art / Photography,https://www.longisland.com/art-photography/,/art-photography/,true
+Arts & Crafts,https://www.longisland.com/arts-crafts/,/arts-crafts/,true
+Auctions,https://www.longisland.com/auctions/,/auctions/,true
+Baby & Toddler,https://www.longisland.com/baby-toddler/,/baby-toddler/,true
+Bath & Beauty,https://www.longisland.com/bath-beauty/,/bath-beauty/,true
+Bed Stores,https://www.longisland.com/bed-stores/,/bed-stores/,true
+Book Stores,https://www.longisland.com/book-stores/,/book-stores/,true
+Boutiques,https://www.longisland.com/boutiques/,/boutiques/,true
+Camera Stores,https://www.longisland.com/camera-stores/,/camera-stores/,true
+Clothing Stores,https://www.longisland.com/clothing-stores/,/clothing-stores/,true
+Computers,https://www.longisland.com/computers/,/computers/,true
+Consumer Electronics,https://www.longisland.com/consumer-electronics/,/consumer-electronics/,true
+Convenience Stores,https://www.longisland.com/convenience-stores/,/convenience-stores/,true
+Craft Stores,https://www.longisland.com/craft-stores/,/craft-stores/,true
+Department Stores,https://www.longisland.com/department-stores/,/department-stores/,true
+Fine Jewelry,https://www.longisland.com/fine-jewelry/,/fine-jewelry/,true
+Florists,https://www.longisland.com/florists/,/florists/,true
+Furniture,https://www.longisland.com/furniture/,/furniture/,true
+Furs & Leathers,https://www.longisland.com/furs-leathers/,/furs-leathers/,true
+Gift Baskets,https://www.longisland.com/gift-baskets/,/gift-baskets/,true
+Gift Shops,https://www.longisland.com/gift-shops/,/gift-shops/,true
+Gold,https://www.longisland.com/gold-buyers/,/gold-buyers/,true
+Grocery / Meats,https://www.longisland.com/grocery-meats/,/grocery-meats/,true
+Jewelry & Watches,https://www.longisland.com/jewelry-watches/,/jewelry-watches/,true
+Lingerie,https://www.longisland.com/lingerie/,/lingerie/,true
+Malls,https://www.longisland.com/malls/,/malls/,true
+Maternity,https://www.longisland.com/maternity/,/maternity/,true
+Mattress Companies,https://www.longisland.com/mattress-companies/,/mattress-companies/,true
+Musical Instruments,https://www.longisland.com/musical-instruments/,/musical-instruments/,true
+Music & Record Stores,https://www.longisland.com/music-record-stores/,/music-record-stores/,true
+Office Supplies,https://www.longisland.com/office-supplies/,/office-supplies/,true
+Pawn Shops,https://www.longisland.com/pawn-shops/,/pawn-shops/,true
+Pet Stores,http://www.longisland.com/pet-supplies/,/pet-supplies/,true
+Retail Stores,https://www.longisland.com/retail-stores/,/retail-stores/,true
+Shoe Stores,https://www.longisland.com/shoe-stores/,/shoe-stores/,true
+Skiing & Snowboarding,https://www.longisland.com/skiing-snowboarding/,/skiing-snowboarding/,true
+Sporting Goods,https://www.longisland.com/sporting-goods/,/sporting-goods/,true
+Toy Stores,https://www.longisland.com/toy-stores/,/toy-stores/,true
+Tupperware & Catalog Parties,https://www.longisland.com/catalog-parties/,/catalog-parties/,true
+Tuxedos & Formal Wear,https://www.longisland.com/tuxedos-formal-wear/,/tuxedos-formal-wear/,true
+Vape Shops,https://www.longisland.com/vape-shops/,/vape-shops/,true
+Video Game Stores,https://www.longisland.com/video-game-stores/,/video-game-stores/,true
+Wedding Supplies,https://www.longisland.com/wedding-supplies/,/wedding-supplies/,true
+Wholesalers,https://www.longisland.com/wholesalers/,/wholesalers/,true
+Wine & Liquor,https://www.longisland.com/wine-liquor/,/wine-liquor/,true
+Apple Picking,https://www.longisland.com/apple-picking/,/apple-picking/,true
+Aquariums,https://www.longisland.com/aquariums/,/aquariums/,true
+Art Galleries,https://www.longisland.com/art-galleries/,/art-galleries/,true
+Associations & Clubs,https://www.longisland.com/associations-clubs/,/associations-clubs/,true
+Athletic & Sports Training,https://www.longisland.com/sports-training/,/sports-training/,true
+Basketball Courts,https://www.longisland.com/basketball-courts/,/basketball-courts/,true
+Batting Cages,https://www.longisland.com/batting-cages/,/batting-cages/,true
+Bike Rentals,https://www.longisland.com/bike-rentals/,/bike-rentals/,true
+Billiards,https://www.longisland.com/billiards/,/billiards/,true
+Bingo Halls,https://www.longisland.com/bingo-halls/,/bingo-halls/,true
+Bowling,https://www.longisland.com/bowling/,/bowling/,true
+Breweries,https://www.longisland.com/breweries/,/breweries/,true
+Brewery Tours,https://www.longisland.com/brewery-tours/,/brewery-tours/,true
+Bubble Soccer,https://www.longisland.com/bubble-soccer/,/bubble-soccer/,true
+Camping,https://www.longisland.com/camping/,/camping/,true
+Candle Making,https://www.longisland.com/candle-making/,/candle-making/,true
+Casinos & Racetracks,https://www.longisland.com/casinos/,/casinos/,true
+Comedy Clubs,https://www.longisland.com/comedy-clubs/,/comedy-clubs/,true
+Country Clubs,https://www.longisland.com/country-clubs/,/country-clubs/,true
+DIY Wood Parties,https://www.longisland.com/diy-wood-parties/,/diy-wood-parties/,true
+Escape Games,https://www.longisland.com/escape-games/,/escape-games/,true
+Family Fun,https://www.longisland.com/family-fun/,/family-fun/,true
+Farms,https://www.longisland.com/farms/,/farms/,true
+Fish Hatcheries,https://www.longisland.com/fish-hatcheries/,/fish-hatcheries/,true
+Flag Football,https://www.longisland.com/flag-football/,/flag-football/,true
+Flyboarding,https://www.longisland.com/flyboarding/,/flyboarding/,true
+Go Karting,https://www.longisland.com/go-karting/,/go-karting/,true
+Golf,https://www.longisland.com/golf/,/golf/,true
+Horseback Riding,https://www.longisland.com/horseback-riding/,/horseback-riding/,true
+Laser Tag,https://www.longisland.com/laser-tag/,/laser-tag/,true
+Lighthouses,https://www.longisland.com/lighthouses/,/lighthouses/,true
+Long Island Tourism,https://www.longisland.com/long-island-tourism/,/long-island-tourism/,true
+Martial Arts,https://www.longisland.com/martial-arts/,/martial-arts/,true
+Mini Golf,https://www.longisland.com/mini-golf/,/mini-golf/,true
+MMA Schools,http://www.longisland.com/martial-arts/,/martial-arts/,true
+Obstacle Courses,https://www.longisland.com/obstacle-courses/,/obstacle-courses/,true
+Outdoor Adventure,https://www.longisland.com/outdoor-adventure/,/outdoor-adventure/,true
+Paddleboarding Rentals,https://www.longisland.com/paddleboarding/,/paddleboarding/,true
+Paintball & Airsoft,https://www.longisland.com/paintball/,/paintball/,true
+Paint Night / Plant Night,https://www.longisland.com/paint-nite/,/paint-nite/,true
+Psychic Readings,https://www.longisland.com/psychics/,/psychics/,true
+Public Pools,https://www.longisland.com/public-pools/,/public-pools/,true
+Recreation Centers,https://www.longisland.com/recreation-centres/,/recreation-centres/,true
+Rinks,https://www.longisland.com/rinks/,/rinks/,true
+Rock Climbing,https://www.longisland.com/rock-climbing/,/rock-climbing/,true
+Salt Cave,https://www.longisland.com/salt-cave/,/salt-cave/,true
+Scuba Diving,https://www.longisland.com/scuba-diving/,/scuba-diving/,true
+Shooting Ranges,https://www.longisland.com/shooting-ranges/,/shooting-ranges/,true
+Sky Diving,https://www.longisland.com/sky-diving/,/sky-diving/,true
+Soccer,https://www.longisland.com/soccer/,/soccer/,true
+Spectator Sports,https://www.longisland.com/spectator-sports/,/spectator-sports/,true
+Sports Activities,https://www.longisland.com/sports-activities/,/sports-activities/,true
+Strawberry Picking,https://www.longisland.com/strawberry-picking/,/strawberry-picking/,true
+Surfing,https://www.longisland.com/surfing/,/surfing/,true
+Tennis Courts,https://www.longisland.com/tennis-courts/,/tennis-courts/,true
+Theaters & Performing Arts,https://www.longisland.com/theaters/,/theaters/,true
+Tourism,https://www.longisland.com/tourism/,/tourism/,true
+Trails,https://www.longisland.com/trails/,/trails/,true
+Whale Watching,https://www.longisland.com/whale-watching/,/whale-watching/,true
+Wineries & Vineyards,https://www.longisland.com/wineries/,/wineries/,true
+Zip Lining,https://www.longisland.com/zip-lining/,/zip-lining/,true
+Zoos & Animal Sanctuaries,https://www.longisland.com/zoos/,/zoos/,true
+Transportation,https://www.longisland.com/transportation/,/transportation/,true
+Airports,https://www.longisland.com/airports/,/airports/,true
+Airport Transportation,https://www.longisland.com/airport-transportation/,/airport-transportation/,true
+Boat Hauling,http://www.longisland.com/boat-transportation/,/boat-transportation/,true
+Bus Rentals,https://www.longisland.com/bus-rentals/,/bus-rentals/,true
+Bus Schedules,http://www.longisland.com/bus-schedules.html,/bus-schedules.html,true
+Bus Stations,https://www.longisland.com/bus-stations/,/bus-stations/,true
+Car Service,https://www.longisland.com/car-service/,/car-service/,true
+Designated Drivers,https://www.longisland.com/designated-drivers/,/designated-drivers/,true
+Ferry Companies,https://www.longisland.com/ferries/,/ferries/,true
+Gas Prices,http://www.longisland.com/gas-prices/,/gas-prices/,true
+Gas Stations,https://www.longisland.com/gas-stations/,/gas-stations/,true
+Limousines,https://www.longisland.com/limos/,/limos/,true
+Railroad,http://www.longisland.com/lirr.html,/lirr.html,true
+Taxis,https://www.longisland.com/taxis/,/taxis/,true
+Traffic,http://www.longisland.com/traffic/,/traffic/,true
+Water Taxi,https://www.longisland.com/water-taxi/,/water-taxi/,true
+Wedding DJs,http://weddings.longisland.com/disc-jockeys/,,false
+Wedding Dresses,http://weddings.longisland.com/gowns-dresses/,,false
+Wedding Flowers,http://weddings.longisland.com/florists/,,false
+Wedding Limousines,http://weddings.longisland.com/limousines/,,false
+Wedding Photographers,http://weddings.longisland.com/photographers/,,false
+Wedding Videographer,http://weddings.longisland.com/videographers/,,false
+A,https://www.longisland.com/business/#A,/business/#A,false
+B,https://www.longisland.com/business/#B,/business/#B,false
+C,https://www.longisland.com/business/#C,/business/#C,false
+D,https://www.longisland.com/business/#D,/business/#D,false
+E,https://www.longisland.com/business/#E,/business/#E,false
+F,https://www.longisland.com/business/#F,/business/#F,false
+G,https://www.longisland.com/business/#G,/business/#G,false
+H,https://www.longisland.com/business/#H,/business/#H,false
+I,https://www.longisland.com/business/#I,/business/#I,false
+J,https://www.longisland.com/business/#J,/business/#J,false
+K,https://www.longisland.com/business/#K,/business/#K,false
+L,https://www.longisland.com/business/#L,/business/#L,false
+M,https://www.longisland.com/business/#M,/business/#M,false
+N,https://www.longisland.com/business/#N,/business/#N,false
+O,https://www.longisland.com/business/#O,/business/#O,false
+P,https://www.longisland.com/business/#P,/business/#P,false
+R,https://www.longisland.com/business/#R,/business/#R,false
+S,https://www.longisland.com/business/#S,/business/#S,false
+T,https://www.longisland.com/business/#T,/business/#T,false
+V,https://www.longisland.com/business/#V,/business/#V,false
+W,https://www.longisland.com/business/#W,/business/#W,false
+Y,https://www.longisland.com/business/#Y,/business/#Y,false
+Z,https://www.longisland.com/business/#Z,/business/#Z,false
+Water Fire & Smoke Damage,https://www.longisland.com/water-fire-smoke-damage/,/water-fire-smoke-damage/,true
+Gotham Immersive Event Space,https://www.longisland.com/business/gotham-immersive-event-space.html,/business/gotham-immersive-event-space.html,true
+Long Island Magazine,https://www.longisland.com/business/long-island-magazine.html,/business/long-island-magazine.html,true
+Big River Barn Rescue,https://www.longisland.com/business/big-river-barn-rescue.html,/business/big-river-barn-rescue.html,true
+Tiki Boat Long Island,https://www.longisland.com/business/tiki-boat-long-island.html,/business/tiki-boat-long-island.html,true
+Fencetekk,https://www.longisland.com/business/fencetekk.html,/business/fencetekk.html,true
+Timeless Body,https://www.longisland.com/business/timeless-body.html,/business/timeless-body.html,true
+Vineyards,https://www.longisland.com/wineries/,/wineries/,true
+Wedding Venues,https://weddings.longisland.com/reception-sites/,,false
+News,https://www.longisland.com/news/,/news/,true
+LIRR Schedule,https://www.longisland.com/lirr.html,/lirr.html,true
+Neighborhood Guide,https://www.longisland.com/towns/,/towns/,true
+Advertise,https://www.longisland.com/advertise/,/advertise/,true
+Contact,https://www.longisland.com/contact/,/contact/,true
+About,https://www.longisland.com/about/,/about/,true
+Sitemap,https://www.longisland.com/sitemap/,/sitemap/,true
+Disclaimer,https://www.longisland.com/disclaimer/,/disclaimer/,true
+Terms of Use,https://www.longisland.com/terms/,/terms/,true
+Privacy Policy,https://www.longisland.com/privacy/,/privacy/,true
