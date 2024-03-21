@@ -1,0 +1,28 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Business {
+  id         Int      @id @default(autoincrement())
+  name       String   @db.VarChar(255)
+  phone      String?  @db.VarChar(20)
+  address    String?  @db.VarChar(200)
+  city       String?  @db.VarChar(200)
+  online     Boolean? @default(false)
+  categoryId Int
+  Category   Category @relation(fields: [categoryId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model Category {
+  id       Int        @id @default(autoincrement())
+  name     String     @db.VarChar(100)
+  url      String?    @db.VarChar(255)
+  able     Boolean?   @default(false)
+  path     String?    @db.VarChar(255)
+  Business Business[]
+}

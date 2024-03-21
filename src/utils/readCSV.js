@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-export async function readCsvData(filePath, offset = 0, limit = 0) {
+export async function readCsvData(filePath, offset = 0, limit) {
   try {
     const data = await fs.promises.readFile(filePath, 'utf-8'); // Read CSV file asynchronously
     const lines = data.split('\n'); // Split lines
@@ -15,11 +15,20 @@ export async function readCsvData(filePath, offset = 0, limit = 0) {
     // Skip header row and apply offset and limit:
     const results = lines
       .slice(1)
-      .slice(offset, offset + limit)
+      .slice(offset, limit && offset + limit)
       .map((line) => {
         const values = line.trim().split(',');
         return headers.reduce((obj, header, index) => {
-          obj[header] = values[index] || ''; // Assign values to object with headers as keys
+          let value = values[index] || ''; // Assign values to object with headers as keys
+
+          // Convert boolean strings to actual boolean values
+          if (value.toLowerCase() === 'true' || value === '1') {
+            value = true;
+          } else if (value.toLowerCase() === 'false' || value === '0') {
+            value = false;
+          }
+
+          obj[header] = value;
           return obj;
         }, {});
       });

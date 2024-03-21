@@ -26,8 +26,8 @@ export const getCategories = async (url) => {
 
     return Array.from(anchors).map((anchor) => {
       return {
-        href: anchor.href,
-        text: anchor.textContent,
+        url: anchor.href,
+        name: anchor.textContent,
       };
     });
   });
@@ -37,7 +37,7 @@ export const getCategories = async (url) => {
   return categories;
 };
 
-export const getBusiness = async (url) => {
+export const getBusiness = async (url, categoryId) => {
   // Start a Puppeteer session with:
   // - a visible browser (`headless: false` - easier to debug because you'll see the browser in action)
   // - no default viewport (`defaultViewport: null` - website page will in full width and height)
@@ -102,13 +102,19 @@ export const getBusiness = async (url) => {
           }
         }
 
-        return {
+        const result = {
           name,
           url,
           phone,
           address,
           city,
         };
+
+        if (categoryId) {
+          result.categoryId = categoryId;
+        }
+
+        return result;
       });
     });
     return business;
