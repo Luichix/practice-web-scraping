@@ -12,9 +12,6 @@ export const readCategories = async (limit, offset) => {
   return await prisma.category.findMany({
     skip: offset,
     take: limit,
-    where: {
-      able: true,
-    },
     select: {
       id: true,
       url: true,

@@ -10,6 +10,7 @@ export async function fetchDataWithDelays(data) {
     if (isAvailable) {
       console.log(
         'Waiting 10 seconds before fetching data for:',
+        item.id,
         item.url,
         '😗'
       );
@@ -19,7 +20,7 @@ export async function fetchDataWithDelays(data) {
         const businessData = await scrappingBusiness(item.url, item.id);
         const saveData = await addBusiness(businessData);
         results.push({ url: item.url, data: saveData }); // Add fetched data with url
-        console.log('Business data for', item.url, '🥰');
+        console.log('Business data for', item.id, item.url, '🥰');
       } catch (error) {
         const updateData = await updateCategory(item.id);
 
@@ -27,6 +28,7 @@ export async function fetchDataWithDelays(data) {
         console.error('Update category for no available 🥺', updateData);
         console.error(
           'Error fetching business data for:',
+          item.id,
           item.url,
           '😢',
           error
@@ -35,6 +37,7 @@ export async function fetchDataWithDelays(data) {
     } else {
       console.log(
         'Skipping business data fetch:',
+        item.id,
         item.url,
         'not available 🥺'
       );
