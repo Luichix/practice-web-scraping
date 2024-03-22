@@ -1,24 +1,29 @@
-import { getBusiness } from './scrapping.js';
+import { scrappingBusiness } from './scrapping.js';
 
 export async function fetchDataWithDelays(data) {
   const results = []; // Array to store consolidated results
   for (const item of data) {
     const isAvailable = item.able; // Implicit conversion to boolean
-    console.log(item);
+
     if (isAvailable) {
       console.log(
-        'Waiting 15 seconds before fetching data for:',
+        'Waiting 10 seconds before fetching data for:',
         item.url,
         '😗'
       );
-      await new Promise((resolve) => setTimeout(resolve, 15000)); // Delay for 10 seconds
+      await new Promise((resolve) => setTimeout(resolve, 10000)); // Delay for 10 seconds
 
       try {
-        const businessData = await getBusiness(item.url, item.id);
+        const businessData = await scrappingBusiness(item.url, item.id);
         console.log('Business data for', item.url, '🥰');
         results.push({ url: item.url, data: businessData }); // Add fetched data with url
       } catch (error) {
-        console.error('Error fetching business data for:', item.url, '😢');
+        console.error(
+          'Error fetching business data for:',
+          item.url,
+          '😢',
+          error
+        );
         results.push({ url: item.url, error: error.name }); // Add error object for failed fetches
       }
     } else {

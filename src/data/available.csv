@@ -1,7 +1,7 @@
 ﻿name,url,path,able
 Home,https://www.longisland.com/,/,false
-Things To Do,https://www.longisland.com/things-to-do/,/things-to-do/,true
-All Things To Do,https://www.longisland.com/things-to-do/,/things-to-do/,true
+Things To Do,https://www.longisland.com/things-to-do/,/things-to-do/,false
+All Things To Do,https://www.longisland.com/things-to-do/,/things-to-do/,false
 Amusement Parks,https://www.longisland.com/amusement-parks/,/amusement-parks/,true
 Beaches,https://www.longisland.com/beaches/,/beaches/,true
 Boating & Fishing,https://www.longisland.com/boating/,/boating/,true
@@ -11,7 +11,7 @@ Kids Entertainment,https://www.longisland.com/kids-entertainment/,/kids-entertai
 Museums,https://www.longisland.com/museums/,/museums/,true
 Nightlife,https://nightlife.longisland.com/,,false
 Parks,https://www.longisland.com/parks/,/parks/,true
-Restaurants,https://www.longisland.com/restaurants/,/restaurants/,true
+Restaurants,https://www.longisland.com/restaurants/,/restaurants/,false
 Sports,https://www.longisland.com/sports.html,/sports.html,true
 Summer Camps,https://www.longisland.com/summer-camps/,/summer-camps/,true
 Theaters,https://www.longisland.com/theaters/,/theaters/,true

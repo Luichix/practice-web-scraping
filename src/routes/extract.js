@@ -5,7 +5,11 @@ import { createCategoriesCsv } from '../utils/createCSV.js';
 import { readCsvData } from '../utils/readCSV.js';
 import { fetchDataWithDelays } from '../services/fetch.js';
 import { createBusinessJSON } from '../utils/createJSON.js';
-import { addCategories, readCategories } from '../services/prisma.js';
+import {
+  addBusiness,
+  addCategories,
+  readCategories,
+} from '../services/prisma.js';
 
 const routerExtract = Router();
 
@@ -141,9 +145,7 @@ routerExtract.get('/business-list', async (req, res) => {
 });
 
 routerExtract.post('/create-business', async (req, res) => {
-  console.log(req);
-  const limit = req.body.limit;
-  const offset = req.body.offset;
+  const { limit, offset } = req.body;
 
   if (!offset && !limit) {
     return res.status(400).json({
@@ -153,26 +155,23 @@ routerExtract.post('/create-business', async (req, res) => {
   }
 
   try {
-    const list = readCategories(limit, offset);
-
-    // const consolidatedData = await fetchDataWithDelays(list);
-
-    // const jsonData = JSON.stringify(consolidatedData);
-
-    // createBusinessJSON(
-    //   jsonData,
-    //   `business-${offset}-${parseInt(limit) + parseInt(offset)}`
-    // );
+    const list = await readCategories(limit, offset);
 
     res.json({
       error: 0,
       message: 'Business was created successfully',
       data: list,
     });
+
+    const consolidatedData = await fetchDataWithDelays(list);
+
+    const result = await addBusiness(consolidatedData);
+
+    console.log('Save data successfully 😋 ', result);
   } catch (err) {
     res.status(500).json({
       error: 1,
-      message: 'Error extracting article: ' + err.message,
+      message: 'Error extracting business information: ' + err.message,
     });
   }
 });

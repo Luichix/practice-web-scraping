@@ -3,7 +3,9 @@ import routerExtract from './routes/extract.js';
 
 const app = express();
 
-app.use('/extract', routerExtract);
+app.use(express.json());
+
+app.use('/api', routerExtract);
 
 app.get('/', (_, res) => {
   res.send('Bienvenido al servidor de extracción de artículos');

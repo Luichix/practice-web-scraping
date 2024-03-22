@@ -22,3 +22,9 @@ export const readCategories = async (limit, offset) => {
     },
   });
 };
+
+export const addBusiness = async (business) => {
+  await prisma.business.createMany({
+    data: [...business],
+  });
+};
