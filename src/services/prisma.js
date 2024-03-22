@@ -28,3 +28,14 @@ export const addBusiness = async (business) => {
     data: [...business],
   });
 };
+
+export const updateCategory = async (categoryId) => {
+  return await prisma.category.update({
+    where: {
+      id: categoryId,
+    },
+    data: {
+      able: false,
+    },
+  });
+};

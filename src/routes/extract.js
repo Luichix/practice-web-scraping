@@ -5,11 +5,7 @@ import { createCategoriesCsv } from '../utils/createCSV.js';
 import { readCsvData } from '../utils/readCSV.js';
 import { fetchDataWithDelays } from '../services/fetch.js';
 import { createBusinessJSON } from '../utils/createJSON.js';
-import {
-  addBusiness,
-  addCategories,
-  readCategories,
-} from '../services/prisma.js';
+import { addCategories, readCategories } from '../services/prisma.js';
 
 const routerExtract = Router();
 
@@ -157,17 +153,15 @@ routerExtract.post('/create-business', async (req, res) => {
   try {
     const list = await readCategories(limit, offset);
 
+    const result = await fetchDataWithDelays(list);
+
+    console.log('Scrapping Process Completly 😋 ');
+
     res.json({
       error: 0,
       message: 'Business was created successfully',
-      data: list,
+      data: result,
     });
-
-    const consolidatedData = await fetchDataWithDelays(list);
-
-    const result = await addBusiness(consolidatedData);
-
-    console.log('Save data successfully 😋 ', result);
   } catch (err) {
     res.status(500).json({
       error: 1,

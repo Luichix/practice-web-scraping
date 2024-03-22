@@ -9,6 +9,7 @@ datasource db {
 
 model Business {
   id         Int      @id @default(autoincrement())
+  url        String?
   name       String   @db.VarChar(255)
   phone      String?  @db.VarChar(20)
   address    String?  @db.VarChar(200)

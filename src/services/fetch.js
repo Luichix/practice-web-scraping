@@ -1,4 +1,6 @@
+import { updateCategory } from './prisma.js';
 import { scrappingBusiness } from './scrapping.js';
+import { addBusiness } from '../services/prisma.js';
 
 export async function fetchDataWithDelays(data) {
   const results = []; // Array to store consolidated results
@@ -15,16 +17,20 @@ export async function fetchDataWithDelays(data) {
 
       try {
         const businessData = await scrappingBusiness(item.url, item.id);
+        const saveData = await addBusiness(businessData);
+        results.push({ url: item.url, data: saveData }); // Add fetched data with url
         console.log('Business data for', item.url, '🥰');
-        results.push({ url: item.url, data: businessData }); // Add fetched data with url
       } catch (error) {
+        const updateData = await updateCategory(item.id);
+
+        results.push({ url: item.url, error: error.name, update: updateData }); // Add error object for failed fetches
+        console.error('Update category for no available 🥺', updateData);
         console.error(
           'Error fetching business data for:',
           item.url,
           '😢',
           error
         );
-        results.push({ url: item.url, error: error.name }); // Add error object for failed fetches
       }
     } else {
       console.log(
