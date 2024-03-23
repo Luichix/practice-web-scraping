@@ -156,12 +156,21 @@ export const scrappingBusiness = async (url, categoryId) => {
         const ulElement = divElement.querySelector('ul');
 
         return Array.from(ulElement.children).map((liElement) => {
-          const nameAnchor = liElement.querySelector('h4 a');
-          const name = nameAnchor.textContent;
-          const url = nameAnchor.href;
+          let name = '';
+          let url = '';
           let phone = '';
           let address = '';
           let city = '';
+
+          const nameTitle = liElement.querySelector('h4');
+          const nameAnchor = liElement.querySelector('h4 a');
+
+          if (nameAnchor) {
+            name = nameAnchor.textContent;
+            url = nameAnchor.href;
+          } else {
+            name = nameTitle.textContent;
+          }
 
           // Get the entire text content of the paragraph
           const paragraphText = liElement.querySelector('p').innerHTML;
